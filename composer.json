@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "3.*",
+        "atlas/orm": "~3.0"
+    },
+    "require-dev": {
+        "atlas/cli": "~2.0"
+    }
+}
